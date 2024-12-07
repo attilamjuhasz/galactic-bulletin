@@ -47,8 +47,8 @@
 }
 
 @media (max-width: 450px){
-    #title{
-        font-size: 12px !important;
+    .banner-text{
+        font-size: 13px !important;
     }
 }
 
