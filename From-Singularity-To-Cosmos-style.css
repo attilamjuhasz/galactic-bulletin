@@ -52,7 +52,7 @@
     }
 }
 
-@media (max-height: 750px){
+@media (max-height: 450px){
     #title{
         font-size: 32px !important;
     }
