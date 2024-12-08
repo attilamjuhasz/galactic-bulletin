@@ -46,6 +46,12 @@
     }
 }
 
+@media (max-width: 650px){
+    .banner-text{
+        font-size: 26px !important;
+    }
+}
+
 @media (max-width: 450px){
     .banner-text{
         font-size: 13px !important;
