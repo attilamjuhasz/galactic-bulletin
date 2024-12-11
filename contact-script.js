@@ -12,7 +12,7 @@ document.addEventListener('click', function (event) {
     }
 });
 
-// Close the dropdown on scroll
+// Close the dropdown on scroll TEST
 window.addEventListener('scroll', function () {
     document.querySelector('.navbar').classList.remove('active');
 });
